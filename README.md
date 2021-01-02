@@ -1,3 +1,7 @@
+# Overview 
+
+This project utilises the Dan Murphys API to provide inventory and pricing details for various products at various stores. It is intended to allow the user to view information that is not present on the official website, and yet is retrieved in response to product queries.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
